@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #pdf {
+            width: 85%;
+            height: 960px;
+        }
+    </style>
+</head>
+<body>
+   <iframe id="pdf" src="{{.get `file`}}" frameborder="0"></iframe>
+    <p>this is a shortcode</p>
+</body>
+</html>
