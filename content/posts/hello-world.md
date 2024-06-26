@@ -1,7 +1,7 @@
 +++
 title = 'Hello World!'
 date = 2024-06-15T12:17:33-07:00
-draft = true
+draft = false
 description = 'first post, talking about cars or something maybe'
 tags = []
 image = ''
@@ -10,4 +10,4 @@ featured = 'true'
 +++
 **Hello, world!**
 
-This is a simple site made using the hugo-ficurinia theme. You can expect my random interests, the occasional project, or inspiration, and the breaking of this site as I use it to develop projects.
+Hi, my name's Elliot. I'm an engineering student, resturaunt worker, lover of the outdoors, and reading, who calls the Pacific Northwest home. When I am not at school, work, outdoors, or reading, I am coding or working on personal projects to gain better skillsets in areas that interest me. The main reason I am making this blog is to write about some of these projects, the ramblings and inspirations that get me to them, and process of making (or attempting to make) these ideas a reality.

@@ -5,14 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        /*the width and height of the pdf, in my case adjusted to not take up the whole width of the page
+        and have the height of 1 page. playing with the iframe invert will allow you to make the pdf better 
+        fit your color scheme. */
         #pdf {
             width: 85%;
-            height: 960px;
+            height: 1100px;
+        }
+        iframe {
+            filter: invert(85%);
         }
     </style>
 </head>
 <body>
-   <iframe id="pdf" src="{{.get `file`}}" frameborder="0"></iframe>
-    <p>this is a shortcode</p>
+    <!--takes one argument, the file name. Put files in the static folder, when the site is built they will
+    be moved to the public folder, so only the file name is necessary.-->
+    <div style="text-align: center;">
+    <iframe id="pdf" src="{{ .Get `file` }}" frameborder="0">
+    </div>
 </body>
 </html>
