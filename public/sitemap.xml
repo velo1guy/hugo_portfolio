@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://etduncan.com/</loc>
+    <lastmod>2024-06-18T15:51:24-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/posts/</loc>
+    <lastmod>2024-06-18T15:51:24-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/posts/returning-to-reading/</loc>
+    <lastmod>2024-06-18T15:51:24-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/pages/about/</loc>
+    <lastmod>2024-06-16T14:34:37-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/pages/</loc>
+    <lastmod>2024-06-16T14:34:37-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/posts/hello-world/</loc>
+    <lastmod>2024-06-15T12:17:33-07:00</lastmod>
+  </url><url>
+    <loc>https://etduncan.com/categories/</loc>
+  </url><url>
+    <loc>https://etduncan.com/manifest/index.json</loc>
+  </url><url>
+    <loc>https://etduncan.com/search/</loc>
+  </url><url>
+    <loc>https://etduncan.com/tags/</loc>
+  </url>
+</urlset>

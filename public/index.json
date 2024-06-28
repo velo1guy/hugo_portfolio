@@ -1,0 +1,32 @@
+
+{
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+    "articles": [{"date":"2024-06-18","image":"","imageAlt":"image not available","link":"https://etduncan.com/posts/returning-to-reading/","summary":"A book list, and existential memoir of the last 3 years","tags":[],"title":"Returning to Reading"},{"date":"2024-06-15","image":"","imageAlt":"image not available","link":"https://etduncan.com/posts/hello-world/","summary":"first post, talking about cars or something maybe","tags":[],"title":"Hello World!"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://etduncan.com/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://etduncan.com/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "Returning to Reading   Hello World!   Manifest   Search   ",
+    "page": "1",
+    "next": ""
+}
+

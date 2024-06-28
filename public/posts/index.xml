@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Posts on Elliot Duncan</title>
+    <link>https://etduncan.com/posts/</link>
+    <description>Recent content in Posts on Elliot Duncan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 15:51:24 -0700</lastBuildDate><atom:link href="https://etduncan.com/posts/index.xml" rel="self" type="application/rss+xml" /><icon>https://etduncan.com/logo.svg</icon>
+    
+    
+    <item>
+      <title>Returning to Reading</title>
+      <link>https://etduncan.com/posts/returning-to-reading/</link>
+      <pubDate>Tue, 18 Jun 2024 15:51:24 -0700</pubDate>
+      
+      <guid>https://etduncan.com/posts/returning-to-reading/</guid>
+      <description><![CDATA[<p><strong>Returning to reading: A search for answers</strong></p>
+<h2 id="old-questions-hard-answers">Old Questions, Hard Answers</h2>
+<p>Like the majority of people, the last few years in the post COVID world have been difficult ones. Near the end of the pandemic -my senior year of highschool- I got very sick. While it took a while to figure out what exactly was wrong, it was clear I was having a bad autoimmune response. I had to take about half of my senior year off, which was not particularly good for my grades, mental health, or life as a whole. After I recovered, I quickly realized that while I might be &ldquo;better&rdquo;, I am not where I was mentally or physically before I got sick, needing to sleep far more, and still having bad immune reactions to any sort of sickness. I quickly found similar symptoms, explained as brain fog, autoimmune fatigue, and a host of other similar jargon, what I didn&rsquo;t find was a solution. It became rather apparent that my concrete plan through the next years, which had gone unrattled by the global pandemic, was not going to continue to work. Where I used to rely on memory, I now had to develop a system of order completely foregin to me. Where before I could simply do school work whenever I was motivated, I now had to develop dicipline. As I purused the usual passive information gathering tools you can think of a teenage boy using, anxiously scouring youtube and instagram for the answers to better myself; I found little other then some red pill content and the occasional thousand dollar course. I had to reevaluate my process.</p>
+<h2 id="heading"></h2>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://etduncan.com/posts/hello-world/</link>
+      <pubDate>Sat, 15 Jun 2024 12:17:33 -0700</pubDate>
+      
+      <guid>https://etduncan.com/posts/hello-world/</guid>
+      <description><![CDATA[<p><strong>Hello, world!</strong></p>
+<p>Hi, my name&rsquo;s Elliot. I&rsquo;m an engineering student, resturaunt worker, lover of the outdoors, and reading, who calls the Pacific Northwest home. When I am not at school, work, outdoors, or reading, I am coding or working on personal projects to gain better skillsets in areas that interest me. The main reason I am making this blog is to write about some of these projects, the ramblings and inspirations that get me to them, and process of making (or attempting to make) these ideas a reality.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
